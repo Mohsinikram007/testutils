@@ -1,12 +1,12 @@
 import './App.css';
-import Abc from './components/Abc.js';
+import Navbar from './components/Navbar';
 import TxtArea from './components/TxtArea';
 
 function App() {
   return (
    
   <>
-  <Abc />
+  <Navbar />
   <div className='container'>
     <br />
     <br />

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function abc() {
+export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
     <div className="container-fluid">
@@ -14,10 +14,7 @@ export default function abc() {
             <a className="nav-link active" aria-current="page" href="/">Home</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link active" aria-current="page" href="/">About</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="/">conatct</a>
+            <a className="nav-link active" aria-current="page" href="/">About TextUtils</a>
           </li>
           
     
